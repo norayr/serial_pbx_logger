@@ -1,0 +1,5 @@
+
+
+
+all:
+		fpc serial.pas
